@@ -3,10 +3,10 @@ clear
 figlet EgyMan73
 
 echo '	https://github.com/MR-X56'
-echo '##############################'
-echo ' '
+echo 'The Tool eadit By Moath Qasrawi Gamer'
+echo ' Note: This version is modified and not the original: the original is on the github MR-X56'
 
-echo "options >> to show tool options"
+echo "options >> Type "options" To Show Tools
 
 read -p "Terminal_$ " tar
 if [ $tar == "options" ]
