@@ -11,15 +11,15 @@ echo "options >> Type "options" To Show Tools
 read -p "Terminal_$ " tar
 if [ $tar == "options" ]
 then
-echo "1- Nmap WEB Scan (NWS)"
+echo "1- Type "NWS" To Open Tool Nmap WEB Scan"
 echo " "
-echo "2- Network connected (NC)"
+echo "2- Tupe "NS" To Open Tool Network connected"
 echo " "
-echo "3- Dos (D)"
+echo "3- Type "D" To Open Tool Dos"
 echo " "
-echo "4- Admin Finder (AF)"
+echo "4- Type "AF" To Open Tool Admin Finder"
 echo " "
-echo "5- Wifi Phisher (WP)"
+echo "5- Type "WP" To Open Tool Wifi Phisher"
 fi
 read -p "Terminal_$ " ter
 
